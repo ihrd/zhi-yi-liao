@@ -1,0 +1,13 @@
+{
+	"jwtSecret": "Psychologist",
+	"customer_service_uids":false,
+	"conversation_grade":0,
+	"Psychologist_id": "65854fbd862066f18ae4f94b",
+	"Surgeon_id": "6585546e8b0da43e66e609fe",
+	"Internist_id": "65856a158b0da43e66e9bb86",
+	"Pediatrician_id": "65856a72189f86d49bec91e5",
+	"Obstetrician_Gynecologist_id": "65856ab9a09a9be753fe7fd6",
+	"Ophthalmologist_id": "65856b92a7c432e4a3fbbffa",
+	"Otolaryngologist_id": "65856bd1fe975f47a5d7853b",
+	"Orthopedic_Surgeon_id": "65856c8f7ad52d5932250982"
+}

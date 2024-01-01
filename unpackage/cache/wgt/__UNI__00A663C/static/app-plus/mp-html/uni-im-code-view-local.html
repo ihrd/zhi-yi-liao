@@ -1,0 +1,42 @@
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no">
+	<link rel="stylesheet" href="./lib/github-dark.min.css">
+	<style type="text/css">
+		body,
+		html {
+			width: 100%;
+			height: 100%;
+			overflow: hidden
+		}
+
+		body {
+			margin: 0
+		}
+	</style>
+</head>
+<body>
+	<div id="content">web-view content</div>
+	<script type="text/javascript" src="./js/uni.webview.min.js"></script>
+	<script type="text/javascript">
+		// 等待初始化完毕
+		document.addEventListener('UniAppJSBridgeReady', () => {
+			uni.postMessage({
+				data: {
+					action: 'onJSBridgeReady'
+				}
+			})
+		})
+		window.setHtml = function(htmlString) {
+			document.body.outerHTML = htmlString
+			let height = document.body.scrollHeight
+			uni.postMessage({
+				data: {
+					action: 'onHeightChange',
+					height
+				}
+			})
+
+		}
+	</script>
+</body>

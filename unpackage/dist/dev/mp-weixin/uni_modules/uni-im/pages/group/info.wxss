@@ -1,0 +1,86 @@
+@import "../../../../nvue.wxss";
+page.data-v-0dfdeea3,
+.pages.data-v-0dfdeea3 {
+  width: 750rpx;
+  flex: 1;
+  background-color: #f5f5f5;
+  height: 100vh;
+}
+.usersInfo.data-v-0dfdeea3 {
+  flex-direction: row;
+  margin-bottom: 8px;
+  background-color: #FFFFFF;
+  flex-wrap: wrap;
+}
+.item.data-v-0dfdeea3 {
+  width: 150rpx;
+  margin: 5px 0;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+.minus-filled.data-v-0dfdeea3 {
+  position: absolute;
+  top: 0;
+  right: 5px;
+}
+.avatar.data-v-0dfdeea3 {
+  width: 100rpx;
+  height: 100rpx;
+  border-radius: 10px;
+}
+.nickname.data-v-0dfdeea3 {
+  width: 150rpx;
+  text-align: center;
+  font-size: 14px;
+  color: #666;
+  padding: 0 16rpx;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  lines: 1;
+}
+.logo.data-v-0dfdeea3 {
+  width: 50px;
+  height: 50px;
+}
+.invite-box.data-v-0dfdeea3 {
+  align-items: center;
+}
+.invite.data-v-0dfdeea3 {
+  width: 100rpx;
+  height: 100rpx;
+  margin: 5px 0;
+  justify-content: center;
+  border-radius: 10px;
+  background-color: #f5f5f5;
+}
+.exitGroup.data-v-0dfdeea3 {
+  margin: 10px 0;
+  background-color: #FFFFFF;
+  padding: 6px 0;
+  color: #e64141;
+  border-radius: 0;
+}
+.exitGroup.data-v-0dfdeea3::after {
+  display: none;
+}
+.introduction.data-v-0dfdeea3 {
+  color: #666;
+  font-size: 14px;
+  max-width: 560rpx;
+  text-align: right;
+}
+.join_option.data-v-0dfdeea3 {
+  color: #666;
+  font-size: 14px;
+}
+.slot-code.data-v-0dfdeea3 {
+  align-items: center;
+  flex-direction: row;
+}
+.group-code.data-v-0dfdeea3 {
+  width: 50rpx;
+  height: 50rpx;
+  margin-left: 10rpx;
+}

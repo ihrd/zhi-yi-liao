@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "通讯录",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-list-item": "../../../uni-list/components/uni-list-item/uni-list-item",
+    "uni-load-more": "../../../uni-load-more/components/uni-load-more/uni-load-more",
+    "uni-list": "../../../uni-list/components/uni-list/uni-list"
+  }
+}

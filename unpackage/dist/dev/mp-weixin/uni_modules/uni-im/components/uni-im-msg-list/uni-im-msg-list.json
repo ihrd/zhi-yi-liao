@@ -1,0 +1,11 @@
+{
+  "component": true,
+  "usingComponents": {
+    "uni-im-list": "./components/uni-im-list/uni-im-list",
+    "uni-im-list-item": "./components/uni-im-list-item/uni-im-list-item",
+    "uni-icons": "../../../uni-icons/components/uni-icons/uni-icons",
+    "uni-im-msg-system": "../uni-im-msg-system/uni-im-msg-system",
+    "uni-im-msg": "../uni-im-msg/uni-im-msg",
+    "uni-load-more": "../../../uni-load-more/components/uni-load-more/uni-load-more"
+  }
+}

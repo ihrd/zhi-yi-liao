@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "聊天设置",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-list-chat": "../../../uni-list/components/uni-list-chat/uni-list-chat",
+    "uni-list": "../../../uni-list/components/uni-list/uni-list"
+  }
+}

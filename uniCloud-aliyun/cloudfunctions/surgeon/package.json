@@ -1,0 +1,10 @@
+{
+  "name": "surgeon",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  },
+  "cloudfunction-config": {
+  	  "runtime": "Nodejs12"
+  }
+}

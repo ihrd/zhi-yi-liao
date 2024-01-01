@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "用户列表",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "uni-list-chat": "../../../uni-list/components/uni-list-chat/uni-list-chat",
+    "uni-list": "../../../uni-list/components/uni-list/uni-list",
+    "uni-load-more": "../../../uni-load-more/components/uni-load-more/uni-load-more",
+    "unicloud-db": "../../../../node-modules/@dcloudio/uni-components/lib/unicloud-db/unicloud-db"
+  }
+}

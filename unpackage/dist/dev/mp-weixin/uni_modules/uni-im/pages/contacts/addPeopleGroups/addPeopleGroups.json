@@ -1,0 +1,14 @@
+{
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-segmented-control": "../../../../uni-segmented-control/components/uni-segmented-control/uni-segmented-control",
+    "uni-nav-bar": "../../../../uni-nav-bar/components/uni-nav-bar/uni-nav-bar",
+    "uni-search-bar": "../../../../uni-search-bar/components/uni-search-bar/uni-search-bar",
+    "uni-list-chat": "../../../../uni-list/components/uni-list-chat/uni-list-chat",
+    "uni-list": "../../../../uni-list/components/uni-list/uni-list",
+    "uni-load-more": "../../../../uni-load-more/components/uni-load-more/uni-load-more",
+    "uni-popup-dialog": "../../../../uni-popup/components/uni-popup-dialog/uni-popup-dialog",
+    "uni-popup": "../../../../uni-popup/components/uni-popup/uni-popup"
+  }
+}

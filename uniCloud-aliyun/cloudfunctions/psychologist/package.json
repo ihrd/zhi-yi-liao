@@ -1,0 +1,10 @@
+{
+  "name": "psychologist",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  },
+  "cloudfunction-config": {
+  	  "runtime": "Nodejs12"
+  }
+}

@@ -1,0 +1,1 @@
+<view class="video-box"><video wx:if="{{a}}" bindtap="{{b}}" src="{{c}}" autoplay="{{true}}" page-gesture="{{true}}" show-fullscreen-btn="{{false}}" class="video"></video><uni-icons wx:if="{{d}}" bindclick="{{e}}" class="close-icon" u-i="17ce862a-0" bind:__l="__l" u-p="{{f}}"></uni-icons></view>

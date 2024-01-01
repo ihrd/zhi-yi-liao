@@ -1,0 +1,1 @@
+<view class="container data-v-0d108bf5"><view class="qr-code data-v-0d108bf5"><view class="code-info data-v-0d108bf5"><text class="group-name data-v-0d108bf5">{{a}}</text><text class="group-id data-v-0d108bf5" bindtap="{{c}}">群号：{{b}}</text></view><image class="group-avatar data-v-0d108bf5" src="{{d}}" mode=""></image></view></view>

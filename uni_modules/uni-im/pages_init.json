@@ -1,0 +1,28 @@
+
+{
+    "pages": [
+		{
+			"path": "uni_modules/uni-im/pages/index/index",
+			"style": {
+				"navigationBarTitleText": "会话列表",
+				"enablePullDownRefresh": false,
+				"maxWidth": "960"
+			}
+		},
+		{
+			"path": "uni_modules/uni-im/pages/chat/chat",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"maxWidth": "960"
+			}
+		},
+		{
+			"path": "uni_modules/uni-im/pages/userList/userList",
+			"style": {
+				"navigationBarTitleText": "用户列表",
+				"enablePullDownRefresh": false
+			}
+		}
+	]
+}
